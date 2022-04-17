@@ -1,0 +1,21 @@
+
+.add-task-field {
+    width: 30%;
+    padding: 20px;
+    font: 20px;
+    font-size: 20px;
+    font-family: cursive;
+    border-radius: 19px;
+    border: 1px solid #888;
+
+}
+
+.btn {
+    border: none;
+    width: 70px;
+    height: 40px;
+    cursor: pointer;
+    font: italic bold 12px/30px Georgia, serif;
+    margin: 20px;
+    border-radius: 5px;
+}
